@@ -103,6 +103,8 @@ This project provides an SSL Certificate Validator, which checks the validity, i
 
 4. **Performance Optimization**:
    - For high-volume environments, the SSL certificate fetch operation could be optimized with a caching mechanism to reduce repeated lookups for the same domain.
+  
+https://www.loom.com/share/e640a74f571446feaa8436cb355e6a29?sid=8da59536-09c3-4a94-8d6c-37f01316adea
 
 ## License
 
